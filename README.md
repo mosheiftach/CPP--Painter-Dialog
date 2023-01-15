@@ -1,21 +1,21 @@
-C++ Painter Dialog with MFC
+### C++ Painter Dialog with MFC
 
 This project is a simple paint application created using C++ and the Microsoft Foundation Class (MFC) library.
 
-Features
+### Features
 
 Draw using different brush sizes and colors
 Save and open paintwork
 Undo and redo actions
 
-Requirements
+### Requirements
 
 Windows operating system
 Visual Studio (used for development)
 MFC library
 
 
-Usage
+### Usage
 
 Open the project in Visual Studio
 Build and run the application
@@ -24,12 +24,12 @@ Use the left mouse button to draw on the canvas
 Use the "File" menu to save and open images
 Use the "Edit" menu to undo and redo actions
 
-Notes
+### Notes
 
 This project was developed and tested on Windows 10 using Visual Studio 2019
 The MFC library is required to run this application
 
-Future Work
+### Future Work
 
 Implementing more shapes
 Add more functionality to the application
