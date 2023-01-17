@@ -33,3 +33,6 @@ The MFC library is required to run this application
 
 Implementing more shapes
 Add more functionality to the application
+
+![image](https://user-images.githubusercontent.com/103565470/212898139-d7d279d4-e9c3-4f72-a772-5f168e2b962c.png)
+
